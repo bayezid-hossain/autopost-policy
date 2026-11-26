@@ -1,9 +1,9 @@
-﻿---
+---
 title: autopost
 ---
 # autopost
 
-autopost is a private tool that uploads videos from a Google Drive folder to a single YouTube channel on a daily schedule, using the YouTube Data API.
+autopost is a private tool that uploads videos from a Google Drive folder to a single YouTube channel on a daily schedule. It uses **YouTube API Services** (YouTube Data API).
 
 It has one user and is not offered to the public.
 
